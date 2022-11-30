@@ -1,0 +1,9 @@
+<?php
+session_start();
+if(!empty($_SESSION['active'])){
+    header('location:vistas/home.php');   
+    die();
+}else{
+    header('location:vistas/login.php');   
+    die();
+}
