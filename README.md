@@ -5,6 +5,7 @@ El dentista tien el control sobre la informacion de su paciente y las citas medi
 
 ## Para su desarrollo se utiliza:
 * PHP
+* MySQL
 * JavaScript
 * CSS
 * HTML
